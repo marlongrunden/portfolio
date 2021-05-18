@@ -54,4 +54,14 @@
     <i class="fa fa-whatsapp"></i>
   </a>
   {{end}}
+  {{ with .Site.Params.social.spotify }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external">
+    <i class="fa fa-spotify"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.bandcamp }}
+  <a href="{{ . }}" data-animate-hover="pulse" class="external">
+    <i class="fa fa-bandcamp"></i>
+  </a>
+  {{end}}
 </p>

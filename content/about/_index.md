@@ -1,21 +1,26 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+title = "About"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
-
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+### Composer || Producer || Artist
 
 ![This is me][1]
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+My love of Music stems from my love of sound in general. Growing up in a family of field recordists and musicians, I quickly learned how powerful audio can be in story telling. Soon enough I was writing music for media, and completed a Bachelor of Music Composition at Box Hill Institute (receiving multiple awards for academic excellence). I have worked on multiple projects, including short and feature film, TV commercials and even music for the City of Melbourne’s Christmas Display
 
-#### Education
+### Music for Media
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+My work has been screened all around the world, including at 5 Academy Award qualifying festivals such as London BFI, St Louis, Rhode Island and Flickerfest.
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+My music embodies the stylistic approach of combining field recordings, samples, traditional instrumentation and 3 dimensional space to create powerful, story driven scores and songs.
 
-[1]: /img/about.jpg
+### Producer and Songwriter
+
+Collaborations come in many shapes and sizes, and I love writing with singers and songwriters on their own music. I’m working with many talented artists, including names such as Martika, Russian dark pop artist PSHONKA and my own dance project, Bobby Bege. Bobbebege
+
+### Multichannel Audio and art music
+
+Pushing the boundaries of music is what I love to do best, and using technology to fulfil my ideas is extremely important to me. I use programming and audio technology to write for not only instruments, but multichannel audio installations and spaces. My work has been featured in performances such as the Swell 3.0 live music festival and city of Melbourne’s Christmas display.
+
+[1]: /img/marlonthin.jpg

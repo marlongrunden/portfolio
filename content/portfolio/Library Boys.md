@@ -1,32 +1,18 @@
 +++
 showonlyimage = false
-draft = true
-image = "img/portfolio/lbboys.jpg"
+draft = false
+image = "img/portfolio/lbboysfull.jpg"
 date = "2020-29-12"
 title = "Feature Film: The Library Boys"
-weight = 0
+weight = 5
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+**A coming of age feature film about three best friends surviving their last year of high school**
 
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+> In the once quiet school library at St Marks College, Zane, James and Mitch are met head-on with the challenges of their final school year. Against-the-grain bad boy Zane becomes obsessed with Becca, the new girl at school. The more laid back James is being leaned on by Beth, his long term girlfriend, who wants him to take a little responsibility over his life. And Mitch is just trying to lose his virginity, but in the process becomes involved with Tilly, the most popular girl in school. Written by Pancake Originals
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+The Library Boys is due for release soon.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-- Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+![Library Boys Poster](/img/librarybcover.png)

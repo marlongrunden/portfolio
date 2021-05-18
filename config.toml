@@ -58,6 +58,6 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  twitter       = "full profile url in twitter"
-  instagram     = "full profile url in instagram"
-  youtube       = "full profile url in youtube"
+  email         = "contact@marlongrunden.com"
+  instagram     = "https://www.instagram.com/marlongrunden/"
+  spotify       = "https://open.spotify.com/artist/7CnKY5MWNuotfaIO6EZDtx?si=em8pMTrYQnKvkt2z0Nc47A"

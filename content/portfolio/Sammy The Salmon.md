@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/SammyTheSalmonlarge.jpg"
 date = "2021-05-17"
 title = "Short Film: Sammy The Salmon"
-weight = 4
+weight = 0
 +++
 
 Sammy The Salmon follows the story of a closeted gay man who with the help of a talking salmon, navigates his complicated love life.
