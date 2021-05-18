@@ -1,5 +1,5 @@
-baseurl = "https://example.org/"
-title = "Creative portfolio"
+baseurl = "https://marlongrunden.com"
+title = "Marlon Grunden"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -11,11 +11,14 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  description = "Marlon Grunden // Composer // Producer // Engineer"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Composer, Producer, Engineer and Artist from Melbourne Australia",
+
+    "My work has been screened all around the world, including at 5 Academy Award qualifying festivals such as London BFI, St Louis, Rhode Island and Flickerfest.",
+
+    "I create music that embodies the stylistic approach of combining field recordings, samples, traditional instrumentation and 3 dimensional space to create powerful, story driven scores and songs.",
+
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -55,14 +58,6 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
   twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
   instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  gitlab        = "full profile url in gitlab"
   youtube       = "full profile url in youtube"
-  whatsapp      = "wa.me service link"

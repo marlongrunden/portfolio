@@ -343,7 +343,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .sidebar-heading a:hover {
   border-bottom: dotted 1px #ef5285;
-  color: #000;
+  color: #ef5285;
   text-decoration: none;
 }
 .sidebar-p {
@@ -385,7 +385,7 @@ SIDEBAR + RIGHT COLUMN
   padding-top: 40px;
 }
 .content-column.white-background {
-  background: #fff;
+  background: rgb(0, 0, 0);
   min-height: 100vh;
 }
 .grid {
@@ -2132,7 +2132,7 @@ h6,
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 700;
   line-height: 1.2;
-  color: #000000;
+  color: #ffffff;
 }
 h1,
 .h1 {
