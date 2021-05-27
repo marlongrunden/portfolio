@@ -1,6 +1,5 @@
 +++
-showonlyimage = false
-draft = false
+showonlyimage = true
 image = "img/portfolio/christmas.jpg"
 date = "2021-05-17"
 title = "City Of Melbourne's Christmas Festivals"

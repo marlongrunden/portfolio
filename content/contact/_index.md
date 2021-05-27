@@ -7,4 +7,4 @@ title = "Get in touch"
 
 **Instagram** [@marlongrunden](https://www.instagram.com/marlongrunden/?hl=en)
 
-**Bandcamp** https://marlongrunden.bandcamp.com/
+**Bandcamp** [marlongrunden.bandcamp.com](https://marlongrunden.bandcamp.com/)
