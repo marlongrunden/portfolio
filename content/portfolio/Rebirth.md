@@ -13,6 +13,8 @@ Score for The VCA's Masters Program.
 
 Rebirth is a short horror film written and directed by Carter Looker and produced by Stephen Pidgeon. They developed it together as a joint postgraduate project for their Masters degrees at the Victorian College of the Arts.
 
+Rebirth will be playing at the 2021 Setting Sun Film Festival.
+
 > "Albert is a boy who must either sacrifice his beloved pet pig to appease the god of his world or face the ultimate sacrifice."
 
 {{< rawhtml >}}

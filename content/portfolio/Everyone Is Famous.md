@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/EIF-cover2.jpg"
 date = "2021-05-17"
 title = "Theatre: Everyone Is Famous"
-weight = 0
+weight = 10
 +++
 
 "Looking at persona in the age of social media, nine young folk wade through the wasteland of the internet to find themselves"
