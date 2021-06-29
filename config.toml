@@ -1,4 +1,4 @@
-baseurl = "mgportfolio.ap-south-1.linodeobjects.com"
+baseurl = "lucid-heisenberg-749e92.netlify.app"
 title = "Marlon Grunden"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
