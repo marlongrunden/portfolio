@@ -1,4 +1,4 @@
-baseurl = "https://marlongrunden.com"
+baseurl = "mgportfolio.ap-south-1.linodeobjects.com"
 title = "Marlon Grunden"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
