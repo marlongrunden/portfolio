@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/lbboysfull.jpg"
 date = "2020-29-12"
 title = "Feature Film: The Library Boys"
-weight = 10
+weight = 1
 +++
 
 **A coming of age feature film about three best friends surviving their last year of high school**
