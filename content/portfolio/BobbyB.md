@@ -11,7 +11,7 @@ Pet project of Marlon Grunden and Bradley Price, Bobby Bége is a disco infused 
 
 <!--more-->
 
-Bobby Bége brings together my love of synthesizers and 90's influence disco with [Bradley Price's](https://www.instagram.com/sevenoak/) sweet and sultry vocals. Having released a 3 track EP along with remixes by [Staygo](https://www.instagram.com/staygoau/) and [Doshpot](https://www.instagram.com/doshpot/),
+Bobby Bége brings together my love of synthesizers and 90's influenced disco with [Bradley Price's](https://www.instagram.com/sevenoak/) sweet and sultry vocals. Bobby Bége has released a 3 track EP along with remixes by [Staygo](https://www.instagram.com/staygoau/) and [Doshpot](https://www.instagram.com/doshpot/), with more releases planned next year.
 
 {{< rawhtml >}}
 

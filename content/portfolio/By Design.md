@@ -7,13 +7,13 @@ title = "TV: By Design"
 weight = 3
 +++
 
-Theme and background music for the By Design series of TV shows
+Main theme and background music for the By Design series of TV shows
 
 <!--more-->
 
 Collaborating with Robert Upward, I was lucky enough to compose a library of music for use on a swathe of different shows offered by the By Design team.
 
-Concentrating on simple to edit and usefull tracks, we crafted over 30 unique tracks to convey the interesting stories of theinnovators, inventors and designers presented on the show.
+Concentrating on simple to edit and useful tracks, we crafted over 30 unique tracks to convey the interesting stories of the innovators, inventors and designers presented on the show.
 
 Our opening theme, as well as a wide variety of background music can be heard throughout many of the programs made by By Design, including Australia By Design, America By Design, New York By Design and By Design Heros. These programs are currently being aired on Channel 10 in Australia, and CBS in the UNited States.
 

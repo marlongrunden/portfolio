@@ -11,9 +11,9 @@ Songs and Sketches for Max Paton's Comedy show, Dark Web Mystery Box
 
 <!--more-->
 
-Although I don't consider myself a comedian, Max Paton certainly does, and when he approached me about creating some songs and sound design for his upcoming comedy show, I was definately thrown in the deep end. Like a lot of composers, I like to think of myself as someone who crafts emotive and serious art music for emotive and serious projects.
+Although I don't consider myself a comedian, Max Paton certainly does, and when he approached me about creating some songs and sound design for his upcoming comedy show, I was definitely thrown in the deep end. Like a lot of composers, I like to think of myself as someone who crafts emotive and serious art music for emotive and serious projects.
 
-This was definately not one of those projects.
+This was definitely not one of those projects.
 
 Jokes aside, this project was incredibly rewarding to work on. Writing funny music can be hard, but with Max's hilarious lyrics it was pretty hard not to be funny.
 

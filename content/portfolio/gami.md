@@ -7,7 +7,7 @@ title = "AD: Gami Unmissable Chicken Campaign"
 weight = 2
 +++
 
-Working with Robert upward at Upward Studios, We crafted a quirky, in-your-face track for Gami's "Unmissable Chicken" campaign thats filled with K-pop and EDM influences.
+Working with Robert upward at Upward Studios, we crafted a quirky, in-your-face track for Gami's "Unmissable Chicken" campaign that's filled with K-pop and EDM influences.
 
 <!--more-->
 

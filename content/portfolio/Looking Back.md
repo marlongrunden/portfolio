@@ -11,7 +11,7 @@ _Pastels_ Lo-Fi track "looking Back" for 823 Records' "All Things Considered, Vo
 
 <!--more-->
 
-[Pastels'](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) music is as beautiful as it is meloncholy, and crosses genres like Jazz, Lounge and Lo-Fi Hip Hop. I always love mixing her music, and this track was no different. This particular compilation is also full of incredible artists such as Ta-Ku, Wun Two, and Jinsang
+[Pastels'](https://open.spotify.com/artist/3FMHJYjF4SBeWszMXgWoaR) music is as beautiful as it is melancholy, and crosses genres like Jazz, Lounge and Lo-Fi Hip Hop. I always love mixing her music, and this track was no different. This particular compilation is also full of incredible artists such as Ta-Ku, Wun Two, and Jinsang
 
 {{< rawhtml >}}
 

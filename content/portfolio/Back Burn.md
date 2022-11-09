@@ -7,9 +7,13 @@ title = "Short Film: Back Burn"
 weight = 0
 +++
 
-On the anniversary of an Easter car crash that took the lives of both of her parents, an emotionally distant teenage girl in the Australian Outback is encumbered with the responsibility of looking after her elderly grandfather, who suffers from signs of dementia.
+A dark and distorted score for a film about struggle.
 
 <!--more-->
+_On the anniversary of an Easter car crash that took the lives of both of her parents, an emotionally distant teenage girl in the Australian Outback is encumbered with the responsibility of looking after her elderly grandfather, who suffers from of dementia._
+
+Featuring live cello, sampled distortion and plenty of creative sound design, Back Burn's score is dense, complex and confronting.
+
 
 {{<vimeo 412609292>}}
 
