@@ -10,11 +10,6 @@ weight = 1
 
 <!--more-->
 
-{{<youtube H073619_gIg>}}
-
-{{< rawhtml >}}
-<br><br>
-{{< /rawhtml >}}
 
 The Library Boys recently had it's world premier at the Austin Film Festival, where it won the Comedy Vanguard Award.
 

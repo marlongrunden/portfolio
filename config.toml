@@ -15,9 +15,9 @@ googleAnalytics = ""
   sidebarAbout = [
     "Composer, Producer, Engineer and Artist from Melbourne Australia",
 
-    "My work has been screened all around the world, including at 5 Academy Award qualifying festivals such as London BFI, St Louis, Rhode Island and Flickerfest.",
+    "Marlon Grunden's has been screened all around the world, including at 5 Academy Award qualifying festivals such as London BFI, St Louis, Rhode Island and Flickerfest.",
 
-    "I create music that embodies the stylistic approach of combining field recordings, samples, traditional instrumentation and 3 dimensional space to create powerful, story driven scores and songs.",
+    "Marlon creates music that embodies the stylistic approach of combining field recordings, samples, traditional instrumentation and 3 dimensional space to create powerful, story driven scores and songs.",
 
   ]
   # Contact page
@@ -32,7 +32,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "marlon@marlongrunden.com"
 
     # Optional Matomo analytics (formerly piwik)
       # [params.analytics.matomo]
@@ -58,6 +58,6 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  email         = "contact@marlongrunden.com"
+  email         = "marlon@marlongrunden.com"
   instagram     = "https://www.instagram.com/marlongrunden/"
   spotify       = "https://open.spotify.com/artist/7CnKY5MWNuotfaIO6EZDtx?si=em8pMTrYQnKvkt2z0Nc47A"
