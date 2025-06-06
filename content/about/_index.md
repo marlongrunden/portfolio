@@ -17,7 +17,7 @@ My music embodies the stylistic approach of combining field recordings, samples,
 
 ### Producer and Songwriter
 
-Collaborations come in many shapes and sizes, and I love writing with singers and songwriters on their own music. I’m working with many talented artists, including names such as Martika, Russian dark pop artist PSHONKA and my own dance project, Bobby Bege. Bobbebege
+Collaborations come in many shapes and sizes, and I love writing with singers and songwriters on their own music. I’m working with many talented artists, including names such as Martika, Russian dark pop artist PSHONKA and my own dance project, Bobby Bege
 
 ### Multichannel Audio and art music
 
