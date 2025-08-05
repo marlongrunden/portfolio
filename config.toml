@@ -11,13 +11,14 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Marlon Grunden // Composer // Producer // Engineer"
+  description = "Marlon Grunden // Composer // Producer // Sound Designer"
   sidebarAbout = [
-    "Composer, Producer, Engineer and Artist from Melbourne Australia",
+    
+    "Marlon Grunden is a composer and sound artist creating impactful work across film, TV, and immersive media. His projects have achieved significant international exposure, screening at renowned festivals including the London BFI, MIFF, Sydney Film Festival, Austin Film Festival, and St Kilda Film Festival.",
 
     "Marlon Grunden's work has been screened all around the world, including at 5 Academy Award qualifying festivals such as London BFI, St Louis, Rhode Island and Flickerfest.",
 
-    "Marlon creates music that embodies the stylistic approach of combining field recordings, samples, traditional instrumentation and 3 dimensional space to create powerful, story driven scores and songs.",
+    "Marlon's distinctive approach to sound seamlessly integrates field recordings, synthesis, traditional instrumentation, and 3-dimensional space. This unique blend culminates in powerful, story-driven music and experiences that are at once textural, cerebral, and emotive, offering a fresh and compelling voice that truly enhances projects across diverse genres.",
 
   ]
   # Contact page
